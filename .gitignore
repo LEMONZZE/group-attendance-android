@@ -1,0 +1,8 @@
+/.build/
+/.signing/
+/local.properties
+*.apk
+*.jks
+*.keystore
+*.p12
+.DS_Store
